@@ -5,6 +5,7 @@ form * {
 }
 
 #checkbox {
+  margin-top: right;
   display:inline;
 
 }
